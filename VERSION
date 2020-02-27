@@ -1,0 +1,9 @@
+commit c07a0b8486fe227c9b8384f286bff844694ba643
+Author: Emmett Lalish <elalish@google.com>
+Date:   Thu Feb 27 13:28:46 2020 -0800
+
+    fix shadow lazy creation (#1055)
+    
+    * fix shadow lazy creation
+    
+    * added test
